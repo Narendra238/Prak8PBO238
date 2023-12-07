@@ -52,14 +52,5 @@ public class Main {
                 break;
             }
         }
-        //        System.out.println("Masukkan bilangan 1 : ");
-//        int bil1 = input.nextInt();
-//        System.out.println("Masukkan bilangan 2 : ");
-//        int bil2 = input.nextInt();
-//
-//        System.out.println("Hasil penjumlahan : " + kl.penjumlahan(bil1,bil2));
-//        System.out.println("Hasil pengurangan : " + kl.pengurangan(bil1,bil2));
-//        System.out.println("Hasil perkalian : " + kl.perkalian(bil1,bil2));
-//        System.out.println("Hasil pembagian : " + kl.pembagian(bil1,bil2));
     }
 }
